@@ -1,4 +1,4 @@
-# FullStack-signin
+# TutorialsLab
 This is a full-stack web application that allows users to create accounts, log in, and log out. 
 It uses React on the front-end and Node.js, Express, and MongoDB on the back-end along with jwt and google-oauth-20 for authentication.
 Protected routes: Some routes require authentication. If the user is not authenticated, they will have to log in first .
